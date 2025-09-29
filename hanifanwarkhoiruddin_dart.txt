@@ -1,5 +1,50 @@
 --- Tugas OSJUR Week 2 Gugus DART ---
 
-Nama  :
-Nim   :
-Gugus :
+Nama  : Hanif Anwar Khoiruddin
+Nim   : 25106050040
+Gugus : Dart
+
+Apa itu Figma?
+Figma adalah alat desain antarmuka pengguna (UI) 
+dan pengalaman pengguna (UX) yang berbasis di web 
+dan bersifat kolaboratif real-time. Bayangkan seperti
+Google Docs, tetapi khusus untuk mendesain website, 
+aplikasi mobile, dan antarmuka digital lainnya.
+
+Fitur-Fitur Utama Figma
+Desain Vektor & UI/UX:
+Alat yang powerful untuk membuat layout, ikon, ilustrasi,
+dan komponen antarmuka yang presisi.
+Mendukung sistem desain (Design Systems) yang memudahkan 
+konsistensi dalam sebuah proyek besar.
+
+Prototipe Interaktif:
+Anda bisa menghubungkan berbagai frame (halaman) dan menambahkan
+interaksi (seperti tap, hover, drag) untuk membuat simulasi
+bagaimana aplikasi atau website akan berjalan.
+Fitur ini sangat berguna untuk melakukan pengujian alur pengguna
+(user flow) dan presentasi ide kepada klien.
+
+Kolaborasi Real-Time (Kelebihan Utama):
+Beberapa orang dapat mengedit dan mengomentari desain yang sama
+secara bersamaan.
+Anda bisa melihat kursor dan nama rekan tim yang sedang online, 
+mirip dengan Google Docs.
+Memudahkan proses brainstorming, review, dan iterasi desain dengan cepat.
+
+Berbasis Web (Cloud):
+Figma dapat dijalankan langsung di browser (seperti Chrome,
+Firefox) tanpa perlu menginstal software berat.
+Ini membuatnya sangat mudah diakses dari mana saja dan di komputer
+mana saja.
+Tersedia juga aplikasi desktop untuk pengalaman yang lebih optimal.
+
+Siapa yang Menggunakan Figma?
+UI/UX Designer: Pekerjaan utama mereka adalah mendesain antarmuka
+dan pengalaman pengguna.
+Product Manager: Untuk merencanakan fitur, melihat perkembangan 
+desain, dan memberikan masukan.
+Developer: Untuk memeriksa spesifikasi desain dan mengambil aset
+yang diperlukan untuk coding.
+Researcher & Content Writer: Untuk memberikan masukan pada teks 
+(copy) dan alur yang ada di dalam prototipe
