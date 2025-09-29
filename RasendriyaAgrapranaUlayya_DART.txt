@@ -1,0 +1,23 @@
+NAMA    : Rasendriya Agraprana Ulayya
+NIM     : 25106050045
+
+--- Rangkuman Osjur Week 1 (Figma) ---
+
+Figma adalah aplikasi desain UI/UX berbasis vektor yg berjalan di browser dan dekstop.
+ - Karena berbasis cloud, semua kerjaan desain akan tersimpan di server dan bisa diakses dimana 
+   saja dan kapan saja. Selama ada Internet
+ - Salah satu keunggulannya adalah kolaborasi real-time
+ - Figma juga memiliki Prototype
+
+Posisi Figma di Industri desain dan teknologi :
+ - Figma sudah menjadi salah satu tools paling populer saat ini untuk desain UI/UX
+ - Cocok untuk tim yg tersebar
+
+APK Populer di UI/UX
+ 1. Figma
+ 2. Adobe XD
+ 3. Sketch
+
+Apa itu UI/UX desain?
+ User Interface(UI) : Tampilan yg terlihat oleh pengguna
+ User Experience (UX) : Hal yg dirasakan atau pengalaman pengguna
