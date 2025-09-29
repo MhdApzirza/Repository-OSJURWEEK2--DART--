@@ -1,0 +1,21 @@
+NAMA: Elika Zahratu Tahlia
+NIM: 25106050109
+
+Apa itu Figuna?
+Figma adalah alat desain UI/UX yang bersifat vektorial, dapat diakses melalui browser dan juga memiliki versi untuk desktop.
+Dengan sistem berbasis cloud, semua pekerjaan desain disimpan dan dapat diakses dari mana saja, asalkan terhubung internet.
+-Salah satu fitur unggulannya adalah kemampuan untuk berkolaborasi secara kreatif.
+-Figma Menyediakan Fitur Prototyping.
+
+Posisi Figma dalam sektor desain dan teknologi
+-Figma telah menjadi salah satu alat yang paling banyak digunakan saat ini untuk desain UI/UX.
+-Sangat ideal untuk tim yang bekerja secara remote.
+
+Aplikasi-populer dalam desain UI/UX
+-Figma
+-Adobe XD
+-Sketch
+
+Apa itu desain UI/UX?
+-antarmuka pengguna (UI): Secara singkat, ini adalah tampilan visual yang terlihat.
+-pengalaman pengguna (UX): Ini adalah apa yang dirasakan atau pengalaman pengguna yang sebenarnya.
