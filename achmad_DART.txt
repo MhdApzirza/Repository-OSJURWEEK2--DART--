@@ -1,0 +1,121 @@
+NAMA    : Achmad Rizki Gumilar
+NIM     :25106050039
+
+rangkuman osjur week 1 (Figma)
+Siap! Aku perluas isi dari tiap poin biar lebih detail tapi tetap pakai bahasa yang simpel dan mudah dicerna.
+
+---
+
+# 🔹 Rangkuman Dasar-Dasar Figma (Versi Lengkap & Simpel)
+
+### 1. **Apa itu Figma?**
+
+* Figma adalah aplikasi desain berbasis **online** (bisa dipakai di browser atau aplikasi).
+* Dipakai untuk membuat desain **UI/UX, poster, ilustrasi, wireframe, hingga prototype aplikasi/website**.
+* Kelebihan Figma dibanding software lain:
+
+  * Gratis untuk pemula.
+  * Bisa kolaborasi langsung (seperti Google Docs).
+  * Tidak butuh laptop super kuat.
+
+---
+
+### 2. **Frame**
+
+* Frame itu seperti **kanvas atau wadah** tempat kita mendesain.
+* Bisa digunakan untuk membuat **halaman aplikasi, layout website, atau group elemen**.
+* Frame bisa diatur ukurannya sesuai kebutuhan (misalnya ukuran layar HP, tablet, atau desktop).
+* Shortcut: **F**.
+
+---
+
+### 3. **Tools Utama di Figma**
+
+* **Move Tool (V)** → untuk geser elemen.
+* **Frame Tool (F)** → bikin wadah/kanvas.
+* **Shape Tool (R untuk rectangle, O untuk ellipse, dll.)** → bikin bentuk dasar.
+* **Pen Tool (P)** → menggambar garis/bentuk bebas.
+* **Text Tool (T)** → menulis teks.
+* **Hand Tool (Space)** → geser area kerja tanpa pilih objek.
+* **Zoom Tool (Z)** → memperbesar area desain.
+
+---
+
+### 4. **Layers**
+
+* Semua elemen di Figma ada dalam bentuk **lapisan (layer)**.
+* Urutan layer menentukan posisi:
+
+  * Layer paling atas → muncul di depan.
+  * Layer paling bawah → tertutup elemen lain.
+* Bisa **group layer** biar lebih rapi.
+* Shortcut: **Ctrl/Cmd + G** untuk group.
+
+---
+
+### 5. **Properties Panel (Kanan)**
+
+Di panel kanan, kita bisa mengatur:
+
+* **Ukuran (width, height)**.
+* **Posisi (X, Y)**.
+* **Fill (warna isi)** → pilih warna solid, gradient, atau gambar.
+* **Stroke (garis luar)** → atur ketebalan dan warna garis.
+* **Effects** → seperti bayangan (drop shadow), blur, dll.
+* **Corner radius** → bikin sudut jadi melengkung.
+
+---
+
+### 6. **Components**
+
+* Component = elemen **master** yang bisa dipakai berulang.
+* Contoh: tombol, card, navbar.
+* Kalau **master component** diubah → semua salinannya otomatis ikut berubah.
+* Bermanfaat untuk menjaga desain konsisten.
+* Shortcut: **Ctrl/Cmd + Alt + K** untuk membuat component.
+
+---
+
+### 7. **Auto Layout**
+
+* Fitur yang bikin elemen tersusun otomatis.
+* Cocok untuk **list, tombol, navbar, card**, dll.
+* Keunggulan:
+
+  * Elemen tetap rapi walau teks/gambar berubah.
+  * Bisa bikin desain responsif (menyesuaikan ukuran).
+* Shortcut: **Shift + A** untuk aktifkan Auto Layout.
+
+---
+
+### 8. **Prototype**
+
+* Digunakan untuk bikin **simulasi interaksi** (misalnya klik tombol → pindah ke halaman lain).
+* Bisa menambahkan **transition** (animasi perpindahan).
+* Hasil prototype bisa di-share untuk diuji coba tanpa perlu coding.
+
+---
+
+### 9. **Kolaborasi**
+
+* Beberapa orang bisa buka dan edit file yang sama secara real-time.
+* Ada fitur **cursor chat** (lihat kursor teman).
+* Bisa kasih komentar langsung di desain.
+
+---
+
+### 10. **Pages**
+
+* Satu file Figma bisa punya banyak **halaman kerja**.
+* Berguna untuk memisahkan bagian desain, misalnya:
+
+  * Page 1: Wireframe.
+  * Page 2: Final Design.
+  * Page 3: Asset/Icon.
+
+## ✨ Tips Belajar Cepat Figma
+
+1. Mulai dari desain kecil (misalnya kartu profil).
+2. Pakai shortcut biar kerja lebih cepat.
+3. Jangan takut salah → ada versi history.
+4. Latihan konsisten → coba tiru desain aplikasi/website sederhana.
