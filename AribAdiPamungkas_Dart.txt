@@ -1,0 +1,62 @@
+                            NAMA    : Arib Adi Pamungkas
+                            NIM     :25106050100
+
+rangkuman osjur week 1 (Figma)
+Siap! Aku perluas isi dari tiap poin biar lebih detail tapi tetap pakai bahasa yang simpel
+
+Rangkuman Dasar-Dasar Figma (Versi Lengkap & Simpel)
+1. Apa itu Figma
+    Figma adalah aplikasi desain dan prototyping antarmuka pengguna (UI/UX) berbasis cloud (awan) yang memungkinkan tim berkolaborasi secara real-time. Figma berbeda karena berjalan langsung di browser web (atau melalui aplikasi desktop), menghilangkan kebutuhan akan perangkat lunak khusus dan mempermudah akses serta berbagi proyek.
+
+2. Figma untuk indsutri
+    Figma digunakan secara luas di berbagai industri, terutama yang bergerak di bidang teknologi, media, dan jasa digital. Perusahaan dari startup kecil hingga korporasi besar menggunakannya untuk
+
+3. Prototyping Figma
+    Prototyping di Figma adalah fitur penting yang memungkinkan desainer membuat simulasi interaktif dari desain mereka. Ini mengubah frame statis menjadi pengalaman yang terasa seperti aplikasi atau situs web yang berfungsi.
+4.Cara Menggunakan Figma
+    Akses: Buka Figma di browser atau aplikasi desktop dan buat akun.
+
+    Buat File: Mulai proyek baru (disebut File Desain).
+
+    Frame: Tambahkan Frame (mirip artboard) yang mewakili layar atau halaman perangkat.
+
+    Desain: Gunakan alat seperti Shape Tool (Bentuk), Pen Tool (Pena), dan Text Tool untuk membuat elemen UI.
+
+    Komponen: Buat Components (Komponen) untuk elemen yang digunakan berulang kali (misalnya tombol, header) agar konsisten dan mudah diubah.
+
+    Prototyping: Pindah ke tab Prototype untuk menghubungkan frame dan menentukan alur interaksi.
+
+    Kolaborasi: Undang anggota tim melalui link untuk bekerja atau memberikan masukan.
+
+5. Keunggulan Figma
+    Berbasis Cloud: Tidak perlu instalasi berat; dapat diakses dari mana saja dan di sistem operasi apa pun (Windows, Mac, Linux).
+
+    Kolaborasi Real-time: Beberapa pengguna dapat bekerja pada file yang sama secara bersamaan, melihat perubahan langsung.
+
+    Sistem Komponen Kuat: Memungkinkan pembuatan sistem desain yang skalabel dan konsisten.
+
+    Fitur Developer Handoff (Inspect): Pengembang dapat dengan mudah melihat spesifikasi desain, menyalin kode CSS, dan mengunduh aset.
+
+    Komunitas (Figma Community): Akses ke ribuan template, plugin, dan widget yang dibagikan pengguna lain
+
+6. Figma untuk Desain UI/UX
+    Figma adalah alat standar industri untuk desain UI/UX (User Interface/User Experience):
+
+        UI (Antarmuka Pengguna): Digunakan untuk merancang tampilan visual (warna, tipografi, tata letak, elemen interaktif) agar indah dan intuitif.
+
+        UX (Pengalaman Pengguna): Digunakan untuk memetakan dan menguji seluruh perjalanan pengguna (user journey), mulai dari wireframing (kerangka) hingga prototyping interaktif, memastikan desain memecahkan masalah pengguna secara efektif
+
+7. Apa Itu UI (User Interface)
+    UI (User Interface), atau Antarmuka Pengguna, adalah segala sesuatu yang dilihat dan digunakan oleh pengguna saat berinteraksi dengan produk digital. Ini adalah tampilan visual dan elemen interaktif dari suatu aplikasi atau situs web.
+
+        Fokus: Estetika, tata letak, warna, tipografi, dan semua elemen visual seperti tombol, ikon, dan input field.
+
+        Tujuan: Membuat antarmuka terlihat menarik, konsisten, dan mudah digunaka
+
+8. Apa Itu UX (User Experience)
+    UX (User Experience), atau Pengalaman Pengguna, adalah keseluruhan pengalaman dan perasaan yang dialami pengguna saat menggunakan produk digital. Ini adalah perjalanan pengguna (user journey) dan bagaimana produk tersebut berfungsi dan memecahkan masalah mereka.
+
+        Fokus: Fungsionalitas, aksesibilitas, dan efisiensi alur kerja (workflow).
+
+        Tujuan: Memastikan produk mudah digunakan, logis, relevan, dan menyenangkan, sehingga pengguna dapat mencapai tujuan mereka tanpa hambatan.
+
