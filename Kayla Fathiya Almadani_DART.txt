@@ -1,0 +1,32 @@
+NAMA    : Kayla Fathiya Almadani
+NIM     : 25106050025
+
+FIGMA adalah aplikasi desain UI/UX berbasis vektor yang mana memiliki kualitas yang lebih baik dibandingkan dengan aplikasi lain yang berbasis pixel. 
+Keunggulan: 
+    - berbasis cloud sehingga semua design dapat tersimpan dan diakses dimana saja selama masih terdapat internet
+    - prototyping
+    - realtime collaborating
+
+prinsip dasar UI design:
+CRAP
+	Contrast	: Perbandingan warna dan bentuk agar memudahkan user saat membaca ada membuka website/aplikasi
+	Repitition	: Perulangan untuk memudahkan user untuk mempelajari simbol-simbol atau hal-hal yang ada dalm suatu website/app
+	Alignment	: Perataan
+	Proximity	: Pengelompokkan
+keempat prinsip dasar tersebut harus diterapkan guna memberi kemudahan dan kenyamanan bagi user, juga untuk mengurangi beban kognitif user agar user lebih mudah beradaptasi  dan memahami fiitur fitur yang tersedia.
+
+Laws Of UX
+	Hick's Law	: The time it takes to make a decision increases with the number and complexity of choices.
+			  >> lebih baik mereduksi pilihan dalam suatu website agar user tiadk overwork
+	Fitts's Law	: The time to acquire a target is a function of the distance to and size of target.
+			  >> ukuran tombol misalnya, diletakkan di zona yang mudah dijangkau oleh user dan tidak terlalu dekat dengan tombol lainnya.
+	Miller's Law	: The average person can only keep 7(plus or minus 2) items in their working memory.
+	Jakob's Law	: User spend most of their time n=on other sites. This means that users prefer your site to work the same way as all thas other sites they already know
+			  >> sebaiknya website yang kita buat tidak terlal berbeda dengan website-website yang ada sebelumnya agar user mudah beradaptasi.
+
+Another Design Principle
+	Emphasis	: Draws attention to the most important element, making it stand out.
+	Typography	: Shapes readability, sets tone and enhances the overal jdesign.
+	Color		: Adds mood, cretes contrast, and helps communicate meaning.
+	White space	: White space is the breating room within design. it enhances readibility, 
+
