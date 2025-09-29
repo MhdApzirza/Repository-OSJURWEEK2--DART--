@@ -1,0 +1,30 @@
+--- Tugas OSJUR Week 2 Gugus DART ---
+
+Nama  : unasil maftuh
+Nim   : 25106050074
+Gugus : DART
+
+rangkuman osjur week 1 (Figma)
+
+Rangkuman Dasar-Dasar Figma
+
+Figma adalah aplikasi desain berbasis online yang bisa dipakai di browser atau aplikasi.
+Biasa dipakai untuk membuat desain UI/UX, poster, ilustrasi, wireframe, hingga prototype aplikasi/website.
+
+Kelebihan Figma dibanding yang lain:
+    Gratis untuk pemula.
+    Bisa kolaborasi secara realtime(seperti Google Docs).
+    App yang ringan sehingga tidak harus menggunakan laptop yang bagus.
+
+Posisi figma di industri desain dan teknologi
+    figma sudah menjadi app yang populer untuk desain UI/UX
+    figma cocok untuk tim yang tersebar(remot)
+
+APK yang populer desain UI/UX
+    figma
+    adobe xo
+    sketch
+
+Apa itu UI/UX desain
+    User Interface(UI): tampilan yang terlihat
+    User Experience(UX): perasaan ketika menggunakan aplikasi 
