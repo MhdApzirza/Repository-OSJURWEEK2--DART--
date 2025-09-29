@@ -1,0 +1,26 @@
+Nama : Sakti Yudha Satriaji
+Nim : 25106050015
+
+Rangkuman Week 1 (FIGMA)
+APA ITU FIGMA?
+ ## Figma adalah aplikasi UI/UX berbasis vektor yang berjalan di browser dan juga ada versi dekstop
+ 
+ ## Karena berbasis cloud semua berjalan desain auto tersimpan di server dan bisa di akses dari mana saja. Selama ada internet.
+ 
+ ## Salah sattu keunggulannya adalah kolaborasi realtime
+ 
+ ## Figma mempunyai Prototype
+
+POSISI FIGMA DI INDUSTRI DESAIN DAN TEKNOLOGI
+ ## Figma sudah menjadi salah satu tools paling populer saat ini untuk desain UI/UX
+
+ ## Cocok untuk tim yang tersebar (remote)
+
+ APLIKASI POPULER UI/UX
+  ## Figma 
+  ## Adobe XO
+  ## Sketch
+
+ APA ITU UI/UX DESAIN?
+## User interface (UI) : Singkatnya tampilan yang terlihat 
+## User experience (UX) : Hal yang di rasakan atau pengalaman pengguna
