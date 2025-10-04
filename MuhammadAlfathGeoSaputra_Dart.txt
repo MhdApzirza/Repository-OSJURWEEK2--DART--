@@ -1,0 +1,42 @@
+Nama: Muhammad Alfath Geo Saputra
+NIM: 25106050119
+
+Figma Adalah:
+
+1. Pengertian
+Figma adalah platform desain berbasis cloud yang berfokus pada pembuatan tampilan antarmuka (UI) dan pengalaman pengguna (UX).
+Bisa dijalankan langsung melalui browser, atau dengan aplikasi di desktop dan mobile.
+
+2. Fungsi Utama
+- Membuat desain UI/UX untuk aplikasi dan website.
+- Menyusun wireframe dan prototype interaktif.
+- Mendukung kerja tim secara real-time (kolaborasi).
+- Mempermudah developer untuk membaca detail desain (warna, ukuran, style) melalui fitur handoff.
+
+3. Fitur Penting
+- Berbasis cloud, file otomatis tersimpan online.
+- Komentar langsung, memudahkan feedback antar tim.
+- Penyimpanan versi otomatis, bisa melacak perubahan.
+- Dukungan plugin & template, mempercepat proses desain.
+- Lintas platform, bisa dipakai di Windows, Mac, Linux, maupun ponsel.
+
+4. Kelebihan
+- Gratis untuk kebutuhan dasar
+- Kolaborasi bersama tim secara instan
+- Bisa dipakai tanpa instalasi (cukup browser)
+- Ringan, tidak menuntut perangkat dengan spek tinggi
+- Mudah digunakan, komunitas besar & banyak tutorial
+- Mendukung berbagai sistem operasi
+
+5. Kekurangan
+- Wajib internet yang stabil (karena cloud-based)
+- Mode offline terbatas
+- Beberapa fitur lanjutan hanya tersedia di versi berbayar
+- Tidak sekuat aplikasi grafis murni seperti Illustrator
+- Bisa terasa lamban jika desain terlalu kompleks atau besar
+
+6. Contoh Pemanfaatan
+- Mahasiswa seperti membuat mockup atau prototype sebelum coding.
+- Desainer UI/UX seperti menyusun tampilan produk digital.
+- Developer seperti melihat detail elemen desain untuk diimplementasikan.
+- Tim startup/perusahaan seperti menguji dan mengembangkan ide produk secara cepat.
