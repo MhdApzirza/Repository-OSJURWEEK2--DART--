@@ -1,0 +1,41 @@
+--- Tugas OSJUR Week 2 Gugus DART ---
+
+NAMA  : HANIF NUR ABIDIN
+NIM   : 25206050037
+GUGUS : DART
+
+RANGKUMAN OSJUR DAY 1
+1. Pengertian Figma
+    Figma adalah alat desain berbasis web (cloud-based) yang digunakan untuk membuat UI (User Interface), UX (User Experience), ilustrasi vektor, wireframe, hingga prototyping interaktif.
+    Bisa digunakan langsung lewat browser tanpa instalasi berat, juga tersedia aplikasi desktop (Windows/Mac/Linux) dan mobile (iOS/Android).
+2. Kelebihan Figma
+    Kolaborasi real-time → beberapa orang bisa mengedit satu file bersamaan, seperti Google Docs.
+    Multi-platform → bisa digunakan di berbagai sistem operasi tanpa batasan.
+    Cloud storage → hasil desain otomatis tersimpan di cloud.
+    Gratis untuk pemula/pendidikan → punya versi free dengan fitur cukup lengkap.
+    Version history → bisa melihat riwayat perubahan desain.
+    Integrasi plugin → tersedia banyak plugin (ikon, gambar stok, chart, mockup, dsb.).
+3. Fitur Utama
+    Desain Vektor → membuat desain yang bisa diperbesar tanpa pecah.
+    Komponen (Components) → elemen yang bisa dipakai berulang, memudahkan konsistensi desain.
+    Style System → mengatur warna, teks, grid, agar desain seragam.
+    Prototyping → menghubungkan frame untuk membuat alur interaktif seperti aplikasi nyata.
+    Commenting → tim bisa langsung memberikan feedback di dalam desain.
+    Auto Layout → mengatur ukuran dan jarak antar elemen otomatis.
+    Team Library → menyimpan komponen & style agar seluruh tim bisa menggunakannya.
+4. Kegunaan Figma
+    Membuat desain aplikasi mobile.
+    Membuat desain website.
+    Mendesain wireframe & mockup.
+    Membuat presentasi interaktif.
+    Desain grafis sederhana seperti poster atau banner.
+    Mendukung workflow tim (desainer, developer, klien).
+5. Perbedaan Figma dengan Alat Lain
+    Vs Adobe XD → Figma lebih unggul di kolaborasi real-time.
+    Vs Sketch → Sketch hanya MacOS, Figma lintas platform.
+    Vs Photoshop/Illustrator → Photoshop/AI lebih ke editing & grafis detail, Figma lebih fokus ke UI/UX.
+6. Contoh Pengguna Figma
+    Desainer UI/UX → merancang aplikasi dan website.
+    Developer → mengambil spesifikasi desain lewat fitur "Inspect".
+    Tim startup → kolaborasi cepat tanpa ribet software.
+    Mahasiswa → untuk tugas desain atau prototyping.
