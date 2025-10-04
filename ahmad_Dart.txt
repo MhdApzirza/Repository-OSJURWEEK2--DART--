@@ -1,12 +1,10 @@
-NAMA    : Achmad Rizki Gumilar
-NIM     :25106050039
+NAMA    : 
+NIM     :251060500
 
 rangkuman osjur week 1 (Figma)
 Siap! Aku perluas isi dari tiap poin biar lebih detail tapi tetap pakai bahasa yang simpel dan mudah dicerna.
 
----
-
-# 🔹 Rangkuman Dasar-Dasar Figma (Versi Lengkap & Simpel)
+Rangkuman Dasar-Dasar Figma (Versi Lengkap & Simpel)
 
 ### 1. **Apa itu Figma?**
 
